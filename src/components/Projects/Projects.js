@@ -78,7 +78,6 @@ function Projects() {
             ghLink="https://github.com/rahulnegi20/tdict"
             builtWith={["Python", "shell"]}
 
-          // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
           />
         </Col>
 
@@ -90,7 +89,6 @@ function Projects() {
             description="Online Bood your advisor with this REST API, You can list the available advisors and book/schedule them on spcecific data and time. Demo available on Github 👇."
             ghLink="https://github.com/rahulnegi20/Book-Advisor"
             builtWith={["Django Rest Framework", "Postgres"]}
-          // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
           />
         </Col>
       </Row>
