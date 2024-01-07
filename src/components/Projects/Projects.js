@@ -63,7 +63,7 @@ function Projects() {
             isBlog={false}
             title="Name it"
             description="Found new domain from your website. Name it provides you available domains form Namecheap's API. You can select the name you like,, it will redirect you to namecheap's website. "
-            ghLink="https://github.com/soumyajit4419/Plant_AI"
+            ghLink="https://github.com/rahulnegi20/Name-it"
             builtWith={["React.js"]}
           // demoLink="https://plant49-ai.herokuapp.com/"
           />
@@ -88,7 +88,7 @@ function Projects() {
             isBlog={false}
             title="Online Advisor Booking API"
             description="Online Bood your advisor with this REST API, You can list the available advisors and book/schedule them on spcecific data and time. Demo available on Github 👇."
-            ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+            ghLink="https://github.com/rahulnegi20/Book-Advisor"
             builtWith={["Django Rest Framework", "Postgres"]}
           // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
           />
