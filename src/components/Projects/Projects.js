@@ -65,7 +65,7 @@ function Projects() {
             description="Found new domain from your website. Name it provides you available domains form Namecheap's API. You can select the name you like,, it will redirect you to namecheap's website. "
             ghLink="https://github.com/rahulnegi20/Name-it"
             builtWith={["React.js"]}
-          // demoLink="https://plant49-ai.herokuapp.com/"
+           demoLink="https://rahulnegi20.github.io/Name-it/"
           />
         </Col>
 
