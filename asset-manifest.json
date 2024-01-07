@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.4a299864.css",
+    "main.js": "/portfolio/static/js/main.37e84848.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tdict.png": "/portfolio/static/media/tdict.e8c320086200f37df629.png",
+    "static/media/flashtype.png": "/portfolio/static/media/flashtype.5e1f734af4e28cad03c8.png",
+    "static/media/karyniti.png": "/portfolio/static/media/karyniti.dc98e6483926da634784.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Rahul-Negi-Resume-2024-01.pdf": "/portfolio/static/media/Rahul-Negi-Resume-2024-01.acc7f6542d7754b02037.pdf",
+    "static/media/bookadvisor.png": "/portfolio/static/media/bookadvisor.4cb8cddffeee1bf7dd81.png",
+    "static/media/nameit.png": "/portfolio/static/media/nameit.bbd3987113d667187bf2.png",
+    "static/media/tenderapp.png": "/portfolio/static/media/tenderapp.9487812646880e6c9ba2.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/RNLogo2.png": "/portfolio/static/media/RNLogo2.faf24b4e1a9eb21a669f.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.4a299864.css.map": "/portfolio/static/css/main.4a299864.css.map",
+    "main.37e84848.js.map": "/portfolio/static/js/main.37e84848.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a299864.css",
+    "static/js/main.37e84848.js"
+  ]
+}
