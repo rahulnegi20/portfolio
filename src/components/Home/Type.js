@@ -6,14 +6,15 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "Welcome to my portfolio",
           "Hope you're doing fine",
-          "welcome to my portfolio",
-          "do checkout my projects",
-          "let's connect",
+          "Do checkout my projects",
+          "Let's connect",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 10,
+        delay: 25
       }}
     />
   );

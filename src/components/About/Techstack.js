@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
+import { DiDjango } from "react-icons/di";
 import {
   DiJavascript1,
   DiReact,
@@ -13,9 +14,16 @@ import {
 import {
   SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
+  SiAnaconda ,
+  SiTailwindcss,
+  SiBootstrap ,
   SiPostgresql,
+  SiOpencv,
+  SiAmazonaws,
+  SiGooglecloud,
+  SiFastapi,
+  SiCss3,
+  SiHtml5,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -23,28 +31,31 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
+        <SiOpencv />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <SiTailwindcss />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiMongodb />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <SiAnaconda  />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
@@ -58,12 +69,33 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAmazonaws />
       </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGooglecloud />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiDjango  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFastapi  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiCss3  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiHtml5 />
+      </Col>
+      {/* <Col xs={4} md={2} className="tech-icons">
+        <SiFastapi  />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFastapi  />
+      </Col> */}
     </Row>
   );
 }

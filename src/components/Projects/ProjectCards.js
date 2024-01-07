@@ -13,13 +13,19 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
+        {props.builtWith && props.builtWith.map((item, index) => (
+          <Button  className="m-1" variant="outline-info" key={index} >
+            {item}
+          </Button> 
+        ))}
+        <br/>
+        <br/>
         <Button variant="primary" href={props.ghLink} target="_blank">
           <BsGithub /> &nbsp;
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
         {"\n"}
         {"\n"}
-
         {/* If the component contains Demo link and if it's not a Blog then, it will render the below component  */}
 
         {!props.isBlog && props.demoLink && (
@@ -30,7 +36,7 @@ function ProjectCards(props) {
             style={{ marginLeft: "10px" }}
           >
             <CgWebsite /> &nbsp;
-            {"Demo"}
+            {"Visit"}
           </Button>
         )}
       </Card.Body>
